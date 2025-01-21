@@ -14,5 +14,5 @@ Cada capítulo del libro brinda primero los conceptos y definiciones que caracte
 ![Portada](https://github.com/hpantoja22/LinearAlgebra/blob/95affe3ca6995deca08e5756c7b7a8d1b83cc833/Caratula_Libro_2024_AL.png)
 
 
-## Recursos adicionales (Código en Matlab)
+## Recursos adicionales (Código en matlab)
 [![Open in MATLAB Online](https://www.mathworks.com/images/responsive/global/open-in-matlab-online.svg)](https://matlab.mathworks.com/open/github/v1?repo=hpantoja22/LinearAlgebra)
